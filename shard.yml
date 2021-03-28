@@ -1,0 +1,13 @@
+name: myapp
+version: 0.1.0
+
+authors:
+  - disk042 <rey.disk042@gmail.com>
+
+targets:
+  myapp:
+    main: src/myapp.cr
+
+crystal: 1.0.0
+
+license: MIT
